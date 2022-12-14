@@ -34,6 +34,10 @@ Please find below my submission for the static Web Hosting Project
 
 ![CloudFront access](images/07-cloudfront-url-access.png)
 
+#### Figure 8 (S3 Access Policy)
+
+![S3 Access Policy](images/08-s3-access-policy.png)
+
 ### URLs
 
 - [S3 Object](https://barak-udacity-static-web-project.s3.amazonaws.com/index.html)
